@@ -1,0 +1,18 @@
+{
+  "name": "haxreact",
+  "version": "1.0.1",
+  "description": "This is an NPM package to simplify the setup process for react projects",
+  "main": "haxreact.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/alex2922/haxreact.git)"
+  },
+  "keywords": [
+    "haxreact"
+  ],
+  "author": "alex2922",
+  "license": "ISC"
+}
